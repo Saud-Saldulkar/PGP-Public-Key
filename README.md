@@ -1,4 +1,4 @@
-If you want to sent something to me securely, please find my PGP public key encryption in the file [saud_pub.asc]
+If you want to sent something to me securely, please find below my PGP public key encryption or download the file [saud_pub.asc]
 
 	-----BEGIN PGP PUBLIC KEY BLOCK-----
 	Version: GnuPG v1.4.13 (MingW32)
